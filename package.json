@@ -1,5 +1,5 @@
 {
-  "name": "organic-jadeify-transform",
+  "name": "browserify-transform-jade",
   "version": "0.0.0",
   "main": "index.js",
   "dependencies": {
@@ -15,10 +15,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/outbounder/organic-jadeify-transform.git"
+    "url": "git://github.com/outbounder/browserify-transform-jade.git"
   },
   "bugs": {
-    "url": "https://github.com/outbounder/organic-jadeify-transform/issues"
+    "url": "https://github.com/outbounder/browserify-transform-jade/issues"
   },
-  "homepage": "https://github.com/outbounder/organic-jadeify-transform"
+  "homepage": "https://github.com/outbounder/browserify-transform-jade"
 }
